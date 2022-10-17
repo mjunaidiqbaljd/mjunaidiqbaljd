@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Junaid Iqbal
-- 👀 I’m interested in Travelling, fiction and Crpto.
-- 🌱 I’m currently learning Blockchain, web3 and Metaverse Development.
-- 💞️ I’m looking to collaborate on reviewng ny code quality.
+- 👀 I’m interested in Travelling, fiction Coding and Crypto.
+- 🌱 I’m currently learning Blockchain, web3 and Metaverse Development through #piaic
+- 💞️ I’m looking to collaborate on reviewng ny code quality and learning new coding skills.
 - 📫 How to reach me mjunaidiqbaljd@gmail.com
 
 <!---
